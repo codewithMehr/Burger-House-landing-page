@@ -35,6 +35,7 @@ header {
   justify-content: flex-end;
 }
 .nav2 a{
+  color: #3d2514;
   text-decoration: none;
 }
 .nav2 a:visited{
